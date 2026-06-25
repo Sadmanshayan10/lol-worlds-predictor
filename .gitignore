@@ -1,0 +1,19 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Data files (we don't want to upload large files to GitHub)
+data/raw/
+data/processed/
+*.csv
